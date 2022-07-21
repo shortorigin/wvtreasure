@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wvtreasure-dev-170643-authRole",
+      "UnauthRoleArn": "arn:aws:iam::543384462545:role/amplify-wvtreasure-dev-170643-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::543384462545:role/amplify-wvtreasure-dev-170643-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wvtreasure-dev-170643-deployment",
+      "UnauthRoleName": "amplify-wvtreasure-dev-170643-unauthRole",
+      "StackName": "amplify-wvtreasure-dev-170643",
+      "StackId": "arn:aws:cloudformation:us-east-1:543384462545:stack/amplify-wvtreasure-dev-170643/070298f0-0939-11ed-b068-0e723a38b8a9",
+      "AmplifyAppId": "d31f25l8r27sfd"
+    },
+    "categories": {
+      "auth": {
+        "wvtreasurea7440068": {}
+      }
+    }
+  }
+}

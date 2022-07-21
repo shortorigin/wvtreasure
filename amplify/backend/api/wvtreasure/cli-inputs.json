@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "wvtreasure",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/justin/deb-va/wvtreasure/amplify/backend/api/wvtreasure/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
